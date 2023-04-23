@@ -1,0 +1,33 @@
+nav * {  
+    display: inline;
+   text-size-adjust: 3;
+    } 
+
+    nav li {  
+        margin: 20px; 
+        
+        }
+
+
+        nav li a{  
+            text-decoration: none;
+            
+            } 
+            
+
+
+        div{
+            margin: 3%;
+        }
+
+
+
+        footer{
+            text-align-last: center;
+        }
+
+        b{
+            margin: 100;
+            border-radius: 10%;
+
+        }
